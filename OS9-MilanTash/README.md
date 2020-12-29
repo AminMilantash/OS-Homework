@@ -2,7 +2,9 @@
 first of all you should inlcude the needed packages
 
 
-command:
+          ********* command *********
+          
+          
 make title : \title{TitleName}
 
 make a section : \section{SectionName}
