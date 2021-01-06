@@ -1,5 +1,5 @@
 #!/bin/bash
-if [ $1 -gt 18 ] 
+if [ $1 -gt 18 ] || [ $1 -eq 18 ]
 then 
 	echo you may go to the party.
 elif [ $1 -le 18 ] && [ $2 == "yes" ]
